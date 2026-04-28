@@ -1,0 +1,12 @@
+size: 1
+category: production
+requirements: [
+    beryllium/100
+]
+buildCostMultiplier: 1
+health: 100
+update: false
+hasItems: false
+hasPower: false
+research: plasma-bore
+shownPlanets: [erekir]
