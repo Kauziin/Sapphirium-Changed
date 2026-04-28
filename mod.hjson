@@ -1,11 +1,11 @@
-name: "sapphirium"
-displayName: "Sapphirium"
+name: "sapphirium-changed"
+displayName: "Sapphirium (Changed)"
 description:
   '''
   Ah the Sapphirium, sounds good right? 
-  Let us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials and mechanics. 
+  The Shapphirium Team will introduce the list of content the mod includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials and mechanics. 
   
-  Contentmaker & Helpers List: 
+  Original Contentmaker & Helpers List: 
   Kostolom - Balancer, Mapper, Json coder, Effect designer, Multi-tool functionally. Discord profile kostolom#9777 
   Laim - Spriter, map maker. Discord profile LaIm-Ik.json#5237
   Liplum - Multicrafter's library author. Discord profile Liplum#2623 
@@ -18,4 +18,4 @@ description:
 author: "Snake"
 minGameVersion: "154"
 version: "17.5"
-repo: 3Snake3/Sapphirium
+repo: Kauziin/Sapphirium-Changed
