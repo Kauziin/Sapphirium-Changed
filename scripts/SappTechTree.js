@@ -29,6 +29,7 @@ var serpuloRoots = [
     "creostone-conveyor",
     "creostone-bridge-conveyor",
     "compact-driver",
+    "teleporter",
     "creostone-router",
     "creostone-junction",
     // liquid
